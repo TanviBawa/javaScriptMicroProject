@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Wireless Keyboard", "category": "Accessories", "price": 49.99 },
+    { "id": 2, "name": "Gaming Mouse", "category": "Accessories", "price": 29.99 },
+    { "id": 3, "name": "27-inch Monitor", "category": "Displays", "price": 199.99 },
+    { "id": 4, "name": "External SSD 1TB", "category": "Storage", "price": 129.99 },
+    { "id": 5, "name": "Mechanical Keyboard", "category": "Accessories", "price": 79.99 },
+    { "id": 6, "name": "Wireless Headphones", "category": "Audio", "price": 99.99 }
+  ]
+  
